@@ -1,0 +1,41 @@
+* {
+    font-family: "Helvetica";
+    color: #000;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: #fbfbfb;
+}
+header {
+    width: 400px;
+    border-radius: 5px;
+    background-color: #006d53;
+    font-size: 18px;
+    color: #ffff;
+    padding: 20px;
+}
+header.subheading {
+    width: 300px;
+    border-radius: 5px;
+    background-color: #e3d893;
+    font-size: 16px;
+    padding: 5px;
+    color: #00503d;
+}
+button{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 16px;
+    background-color: #00c294;
+}
+
+button.secondary-button {
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 16px;
+    background-color: #7fa89e;
+    color:#FBFBFB ;
+}
