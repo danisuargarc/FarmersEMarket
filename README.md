@@ -1,6 +1,6 @@
 # FarmersEMarket
 
-###### How to Run
+## How to Run
 1. Download the project.
 2. Open the project directory in cmd. Enter the command **mvn package** in the directory.
 3. Open the project directory in File Explorer and jump into the **target** folder.
